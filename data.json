@@ -2,7 +2,7 @@
     "servers": {
         "server": [
             {
-                "serialnumber": "BAUBALI_L10_TEST_CHECK",
+                "serialnumber": "BAUBALI_L10_TEST_CHECK_MONITOR",
                 "location": "B-5",
                 "starttime": "04:09:12",
                 "currentstate": "chk_sel",
