@@ -2,7 +2,7 @@
     "servers": {
         "server": [
             {
-                "serialnumber": "3BLA102",
+                "serialnumber": "BAHUBALI_L10_TEST_CHECK",
                 "location": "B-5",
                 "starttime": "04:09:12",
                 "currentstate": "chk_sel",
