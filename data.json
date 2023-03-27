@@ -1,6 +1,5 @@
 {
-    "servers": {
-        "server": [
+        "data": [
             {
                 "serialnumber": "BAUBALI_L10_TEST_CHECK_MONITOR",
                 "location": "B-5",
@@ -175,4 +174,3 @@
 
         ]
     }
-}
