@@ -124,7 +124,7 @@
                 "currentstate": "chk_l",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.10.240",
-                "status": "PASSED"
+                "status": "PCYCLE"
             },
             {
                 "serialnumber": "G0540708",
@@ -151,7 +151,7 @@
                 "currentstate": "chk_l",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.2.220",
-                "status": "PASSED"
+                "status": "DISCONNECTED"
             },
             {
                 "serialnumber": "30640090",
@@ -160,7 +160,7 @@
                 "currentstate": "chk_l",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10..252",
-                "status": "PASSED"
+                "status": "OFFLINE"
             },
             {
                 "serialnumber": "30640010",
