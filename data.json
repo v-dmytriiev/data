@@ -170,6 +170,51 @@
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10..49",
                 "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BL0096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chkel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BL0096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chkel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BL0096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chkel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BL0096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chkel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BL0096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chkel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "PASSED"
             }
 
         ]
