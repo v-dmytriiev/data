@@ -215,6 +215,150 @@
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.233",
                 "status": "PCYCLE"
+            },
+            {
+                "serialnumber": "G30540724",
+                "location": "B-1",
+                "starttime": "22:55:33",
+                "currentstate": "chk_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "1.93",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3B30640094",
+                "location": "B-5",
+                "starttime": "04:09:02",
+                "currentstate": "chsl",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.12.243",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "330640",
+                "location": "B-4",
+                "starttime": "03:04:17",
+                "currentstate": "chel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10..39",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B30640097",
+                "location": "B-5",
+                "starttime": "04:09:19",
+                "currentstate": "chel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.10.178",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B640098",
+                "location": "B-5",
+                "starttime": "04:09:13",
+                "currentstate": "chk_l",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.1.226",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "330640101",
+                "location": "B-5",
+                "starttime": "04:09:20",
+                "currentstate": "chk_sel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.11.14",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "GA0540714",
+                "location": "B-1",
+                "starttime": "22:53:33",
+                "currentstate": "chk_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "10..73",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "330640095",
+                "location": "B-5",
+                "starttime": "04:09:10",
+                "currentstate": "chsl",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.17.8",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "330640103",
+                "location": "B-5",
+                "starttime": "04:09:25",
+                "currentstate": "chk_l",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.10.240",
+                "status": "PCYCLE"
+            },
+            {
+                "serialnumber": "G0540708",
+                "location": "B-1",
+                "starttime": "22:55:34",
+                "currentstate": "chk_default",
+                "currentstatestarttime": "2023-02-07",
+                "ipaddress": "10.1.210",
+                "status": "FAILED"
+            },
+            {
+                "serialnumber": "3B0640013",
+                "location": "B-4",
+                "starttime": "03:04:18",
+                "currentstate": "chk_l",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.1.113",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3B640089",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chk_l",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.2.220",
+                "status": "DISCONNECTED"
+            },
+            {
+                "serialnumber": "30640090",
+                "location": "B-5",
+                "starttime": "04:09:18",
+                "currentstate": "chk_l",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10..252",
+                "status": "OFFLINE"
+            },
+            {
+                "serialnumber": "30640010",
+                "location": "B-4",
+                "starttime": "03:09:41",
+                "currentstate": "chk_l",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10..49",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BL0096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chkel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "PASSED"
+            },
+            {
+                "serialnumber": "3BL0096",
+                "location": "B-5",
+                "starttime": "04:09:14",
+                "currentstate": "chkel",
+                "currentstatestarttime": "2023-02-08",
+                "ipaddress": "10.233",
+                "status": "PASSED"
             }
 
         ]
