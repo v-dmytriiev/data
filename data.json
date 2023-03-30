@@ -16,7 +16,7 @@
                 "currentstate": "chkel",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.233",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "GA3054010",
@@ -70,7 +70,7 @@
                 "currentstate": "chel",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10..39",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "3B30640097",
@@ -88,7 +88,7 @@
                 "currentstate": "chk_l",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.1.226",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "330640101",
@@ -115,7 +115,7 @@
                 "currentstate": "chsl",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.17.8",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "330640103",
@@ -169,7 +169,7 @@
                 "currentstate": "chk_l",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10..49",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "3BL0096",
@@ -187,7 +187,7 @@
                 "currentstate": "chkel",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.233",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "3BL0096",
@@ -205,7 +205,7 @@
                 "currentstate": "chkel",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.233",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "3BL0096",
@@ -232,7 +232,7 @@
                 "currentstate": "chsl",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.12.243",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "330640",
@@ -250,7 +250,7 @@
                 "currentstate": "chel",
                 "currentstatestarttime": "2023-02-08",
                 "ipaddress": "10.10.178",
-                "status": "PASSED"
+                "status": "TESTING"
             },
             {
                 "serialnumber": "3B640098",
